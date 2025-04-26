@@ -1,0 +1,16 @@
+{
+box-sizing: border-box;
+
+position: absolute;
+width: 130px;
+height: 130px;
+left: 67px;
+top: 10px;
+
+background: url(image);
+border: 1px solid #000000;
+}
+
+.rectangle {
+    
+}
