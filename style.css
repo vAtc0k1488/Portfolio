@@ -11,6 +11,42 @@ background: url(image);
 border: 1px solid #000000;
 }
 
-.rectangle {
-    
+/* O6O MHE */
+.text1{
+
+position: absolute;
+width: 844px;
+height: 130px;
+left: 515px;
+top: 987px;
+
+font-family: 'Bonheur Royale';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 111px;
+
+color: #895500;
 }
+
+/* Обо мне */
+.item1{
+background-color: rgba(50, 115, 20, 1);
+position: absolute;
+width: 218px;
+height: 38px;
+left: 368px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+
+
+
