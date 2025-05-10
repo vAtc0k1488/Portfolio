@@ -1,35 +1,19 @@
-{
-box-sizing: border-box;
-
-position: absolute;
-width: 130px;
-height: 130px;
-left: 67px;
-top: 10px;
-
-background: url(image);
-border: 1px solid #000000;
-}
-
-/* O6O MHE */
 .text1{
 
-position: absolute;
-width: 844px;
+display: flex;
+width: 100%;
 height: 130px;
-left: 515px;
-top: 987px;
 
 font-family: 'Bonheur Royale';
 font-style: normal;
 font-weight: 400;
 font-size: 96px;
 line-height: 111px;
-
+justify-content: center;
 color: #895500;
 }
 
-/* Обо мне */
+
 .item1{
 background-color: rgba(50, 115, 20, 1);
 position: absolute;
@@ -47,6 +31,159 @@ line-height: 39px;
 color: #FFFFFF;
 }
 
+.item2{
+  
+background-color: rgba(50, 115, 20, 1);
+position: absolute;
+width: 220px;
+height: 38px;
+left: 738px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+
+.item3{
+    
+background-color: rgba(50, 115, 20, 1);
+position: absolute;
+width: 238px;
+height: 38px;
+left: 1137px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
 
 
+}
 
+.cat{
+
+display: flex;
+width: 600px;
+height: 543px;
+margin-left: 2em;
+
+;
+
+}
+
+.Page2 {
+    display: flex;
+}
+
+.text2{
+
+width: 568px;
+height: 544px;
+left: 824px;
+top: 1183px;
+margin-top: 3em;
+margin-left: 1em;
+
+font-family: 'Vollkorn SC';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 45px;
+
+color: #000000;
+
+
+}
+
+.languages{
+
+width: 1421px;
+height: 588px;
+left: 0px;
+top: 2283px;
+
+
+}
+
+a {
+    color: white;
+}
+
+.arc {
+    display: flex;
+   
+}
+.arc_text{
+
+
+width: 500px;
+
+margin-top: 10%;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFEBC7;
+-webkit-text-stroke: 2px #067400;
+}
+.groupworks {
+    display: flex;
+}
+
+.anim_text{
+
+
+width: 300px;
+
+margin-top: 10%;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFD87B;
+
+-webkit-text-stroke: 2px #C87800;
+
+}
+
+.pix_text{
+
+
+width: 500px;
+height: 279px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFB4B4;
+
+
+-webkit-text-stroke: 2px #004F07;
+
+}
+
+.animations {
+    display: flex;
+    flex-direction: column;
+}
